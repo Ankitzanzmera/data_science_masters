@@ -1,0 +1,68 @@
+1) Who developed python programming Langauage?
+ans :- Guido van Rossum
+
+2) Which type of programming does python support?
+ans :-pytho is  Object-oriented Programming
+
+3)is python case sensitive when dealing whith identifier?
+ans :- Yes, python is case sensitive
+
+4)What is the correct extension of the python file?
+ans :- extension for python is .py and for jupyter notebook is .ipynb
+
+5)is python code compiled or interpreted?
+ans :- python is Interpreted
+
+6) Name a few block of code used to define in python language?
+ans :- The following are blocks: a module, a function body, and a class definition.	
+
+7)State a character used to give single line comments in python?
+ans :- # is used to give single line comments.
+
+8) Mention function which can help us to find the version of python that we are currently working on?
+ans :- sys.version()
+
+9) python supports the creation of anonymous function at runtime,using construct called ____
+ans :- lambda
+
+10)what does pip stands for?
+ans :-Preffered installer program
+
+11)mention a few built-in function in python?
+ans :- str(),abs(),dict(),float(),int(),list(),tuple()
+
+12)what is the maximum possible length of an identifier in python?
+ans :- 79 characters
+
+13) what are the benefits of using python?
+ans :- 1)quality of software
+       2)productivity of developers 
+       3)protability
+       4)supporting libraries
+       5)easy to learn 
+
+14)how is memory managed in python?
+ans :-Memory management in Python involves a private heap containing all Python objects and data structures. 
+
+15) how to install python on windows and set path variables?
+ans :-	
+	Download the binaries
+	Run the Executable installer
+	Add Python to PATH environmental variables
+
+ -> TO ADD PATH
+
+	The complete path of python.exe can be added by:
+
+		Right-clicking This PC and going to Properties.
+
+		Clicking on the Advanced system settings in the menu on the left.
+
+		Clicking on the Environment Variables button o​n the bottom right.
+		
+		In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a part of the PATH variable.
+
+		Clicking on New and entering Python’s install directory.
+
+16) is identation required in python?
+ans :- Yes, identation is required in python.
